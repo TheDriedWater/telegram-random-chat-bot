@@ -3,8 +3,6 @@ Full featured telegram bot to chat randomly with desired gender, vip, support, p
 
 **[Sample bot](https://t.me/DilbarChatBot)**
 
-**Don't forget to give it a star if you found it useful**
-
 # Features
 + Each user has its own profile (name, age, location and gender)
 
