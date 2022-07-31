@@ -1,8 +1,6 @@
 # telegram-random-chat-bot
 Full featured telegram bot to chat randomly with desired gender, vip, support, profile and...
 
-**[Sample bot](https://t.me/DilbarChatBot)**
-
 # Features
 + Each user has its own profile (name, age, location and gender)
 
@@ -47,7 +45,3 @@ Full featured telegram bot to chat randomly with desired gender, vip, support, p
 **Please pull your verions if you made any change to this repo**
 
 **Ask me your questions and report the issues**
-
-# BUY ME A COFFEE
-
-https://www.buymeacoffee.com/driedwater
